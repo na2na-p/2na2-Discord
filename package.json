@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "author": "na2na",
-  "license": "MIT",
+  "license": "Unlicense",
   "private": true,
   "dependencies": {
     "@discordjs/collection": "^0.4.0",
